@@ -11,9 +11,6 @@ O sistema permite ao usuário realizar as seguintes operações:
 - **Depositar:** Adicionar fundos à conta bancária.
 - **Sacar:** Retirar fundos da conta bancária, respeitando o limite de saques diários.
 - **Extrato:** Visualizar o histórico de transações realizadas.
-- **Nova Conta:** Cria uma conta vinculada ao Usuário.
-- **Lista Contas:** Mostra as contas vinculadas ao Usuário.
-- **Novo Usuário:** Cria um novo Usuário vincula ao CPF.
 - **Sair:** Encerrar a sessão no sistema.
 
 ## Tecnologias Utilizadas
