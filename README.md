@@ -11,6 +11,9 @@ O sistema permite ao usuário realizar as seguintes operações:
 - **Depositar:** Adicionar fundos à conta bancária.
 - **Sacar:** Retirar fundos da conta bancária, respeitando o limite de saques diários.
 - **Extrato:** Visualizar o histórico de transações realizadas.
+- **Nova Conta:** Cria uma conta vinculada ao Usuário.
+- **Lista Contas:** Mostra as contas vinculadas ao Usuário.
+- **Novo Usuário:** Cria um novo Usuário vincula ao CPF.
 - **Sair:** Encerrar a sessão no sistema.
 
 ## Tecnologias Utilizadas
@@ -26,7 +29,7 @@ Para executar o sistema bancário, siga os passos abaixo:
 
 
 
-```git clone https://github.com/seu-usuario/desafio_sistema_bancario.git```
+```git clone https://github.com/seu-usuario/sistema_bancario.git```
 
 3. Navegue até o diretório do projeto clonado:
 
@@ -51,7 +54,7 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para m
 
 ## Contato
 
-Se você tiver qualquer dúvida ou sugestão, não hesite em entrar em contato através do [abrir uma issue](https://github.com/seu-usuario/desafio_sistema_bancario/issues) no GitHub.
+Se você tiver qualquer dúvida ou sugestão, não hesite em entrar em contato através do [abrir uma issue](https://github.com/seu-usuario/sistema_bancario/issues) no GitHub.
 
 Agradecemos o seu interesse no Desafio Sistema Bancário e esperamos que você encontre este projeto útil e instrutivo!
 
