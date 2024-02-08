@@ -1,4 +1,4 @@
-# Desafio Sistema Bancário
+# Sistema Bancário
 
 O Desafio Sistema Bancário é um projeto de simulação de operações bancárias, desenvolvido com o objetivo de criar uma aplicação simples e interativa para gerenciar transações financeiras básicas. Este projeto é ideal para quem está aprendendo programação e deseja entender melhor os conceitos de manipulação de dados e lógica de programação em um contexto prático.
 
